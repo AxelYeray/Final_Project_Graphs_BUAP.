@@ -1,4 +1,5 @@
 import networkx as nx
+from Funciones import *
 
 # Función para insertar un grafo
 def InsertarGrafo():
